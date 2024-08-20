@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 944321fc717c61b4ea33ebe9e7da0e88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game ui jelly green_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3751
+        width: 398
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15627f2e699cace4db52f4080ea2b309
+      internalID: 2048426218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3735
+        width: 442
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d262efab6099c44881b4ddf904e92c8
+      internalID: -2031641285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_2
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 3735
+        width: 437
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ff4ce532728b4b83fa8c5693f3e83
+      internalID: -1057962840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_3
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3735
+        width: 1267
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb0f519d27ff224da5dffc050c58c0a
+      internalID: -298821025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_4
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3762
+        width: 424
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb769c925b716469413cd0e54a09c6
+      internalID: 247812580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_5
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 3719
+        width: 450
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21b1d5110c8ca4f96742eaed67260b
+      internalID: 654558589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_6
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 3716
+        width: 459
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f2c60e0d7eca459a210770171f699
+      internalID: -1210045653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_7
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 3704
+        width: 458
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392846cd32e54b4eafee40bee11c581
+      internalID: 352077924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_8
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 3703
+        width: 457
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09751aa81a3c5464fb9b339ea893f1f5
+      internalID: -1322974320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_9
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 3673
+        width: 474
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785ffb288f7e8d9448cb5af4144c36ec
+      internalID: 1230934182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 1339
+        height: 1723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdf5c10c0239b4fa0df874b34d3af9
+      internalID: -1273540250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_11
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3344
+        width: 883
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7281f4595e9fd241b90ad5e1c6116fa
+      internalID: 3573174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_12
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3344
+        width: 913
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8570afbb3dfd6f4ab0dfe5301302c13
+      internalID: -1499172480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_13
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 3219
+        width: 442
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddb3208c1a7dc4abf6a0d4be614c2f
+      internalID: 1110123928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_14
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 3188
+        width: 446
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e049f753709f40a938a1c5663d469
+      internalID: -1523764300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_15
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 3262
+        width: 1044
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ce395415837449b2dc86e6cc0a003
+      internalID: -594377136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2891
+        width: 881
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff018fd41f9ba44782205606ce3f1f1
+      internalID: 1863857576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_17
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2906
+        width: 855
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf7728424ad2641845b7ad08caad2a
+      internalID: 118525070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_18
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2406
+        width: 1256
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fed9fa10fae174483075070c8d91ad
+      internalID: -1978427996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_19
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 2781
+        width: 279
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b095cb090e8064ca0d8146b3eee07e
+      internalID: 1134237289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_20
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2470
+        width: 974
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed63186148e664290c4909bcf97998
+      internalID: 1437351409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_21
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 2453
+        width: 537
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d918d253d1e80478b0ccf3c802cb9b
+      internalID: 1525321921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_22
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2468
+        width: 496
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93019917367aa44b8247fce739176bb
+      internalID: 792860309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_23
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193bb3382cba5e6499c5fb00a3cdf0e6
+      internalID: -25359816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_24
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 2669
+        width: 5
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a84c735da83dc40acc29eaf2021027
+      internalID: 1185672949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_25
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2690
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15c2886dc5b96449f91681f6f42514
+      internalID: -496294630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_26
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 2425
+        width: 338
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e537e20ffac9b4fa0b6bbfb4f53791
+      internalID: -672042245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_27
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 2643
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6681b6656fb794baae6c6ff17b11cd
+      internalID: 1227583478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_28
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1859
+        width: 1647
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ce83af49eab7438f331d5e2674a9e
+      internalID: 2091160942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_29
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 1858
+        width: 1395
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc95ee1e1f8264e9fb506e3ca62873
+      internalID: 1941410885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_30
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 1984
+        width: 280
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb634bfe21ac384e861ec6e71c9cef8
+      internalID: 379857454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1641
+        width: 1438
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61241e7a341684e4a8baf437b7e3ce05
+      internalID: -1208946196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_32
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 498
+        width: 1066
+        height: 1303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4597e71d5dcd64081c9ae368938522
+      internalID: -806305007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_33
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1226
+        width: 1389
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba54ddde28c231f4480af03f58e085db
+      internalID: -1034763924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_34
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 1602
+        width: 349
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b588e3d9b6b1194681a3a98ae8364c1
+      internalID: 1381507068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1408
+        width: 1421
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0757ef212b97c642ac714420b808224
+      internalID: 73213201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_36
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 1156
+        width: 912
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41b17a7eab45849b4f983d251c8802
+      internalID: 1043539099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 701
+        width: 1745
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d9f3fc33049fa44959c6f4f64326d3
+      internalID: 1468384080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_38
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 592
+        width: 1382
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f681399f6a9b489b27d9fce0f6600
+      internalID: 1862089329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_39
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 782
+        width: 327
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba71d786da15547a7625bd0cf5f054
+      internalID: 647425564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 1364
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6e4e4665de8e40a6f22e124899aec
+      internalID: -1520604415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_41
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 0
+        width: 1429
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930f9ce90bad2949901064e853dec19
+      internalID: 1363855201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_42
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 12
+        width: 1379
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79588cd30f6d21043ab630fde9e6097b
+      internalID: 685348498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_43
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 438
+        width: 283
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60ee4f9eac93848ab52a54906ee675
+      internalID: 576605150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_44
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 444
+        width: 302
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f7eb349da0ef409c5f02dbd3744b7
+      internalID: -1604544846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game ui jelly green_45
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 137
+        width: 317
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad383a4fc75904baf33555c50d99f9
+      internalID: -347103560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game ui jelly green_0: 2048426218
+      game ui jelly green_1: -2031641285
+      game ui jelly green_10: -1273540250
+      game ui jelly green_11: 3573174
+      game ui jelly green_12: -1499172480
+      game ui jelly green_13: 1110123928
+      game ui jelly green_14: -1523764300
+      game ui jelly green_15: -594377136
+      game ui jelly green_16: 1863857576
+      game ui jelly green_17: 118525070
+      game ui jelly green_18: -1978427996
+      game ui jelly green_19: 1134237289
+      game ui jelly green_2: -1057962840
+      game ui jelly green_20: 1437351409
+      game ui jelly green_21: 1525321921
+      game ui jelly green_22: 792860309
+      game ui jelly green_23: -25359816
+      game ui jelly green_24: 1185672949
+      game ui jelly green_25: -496294630
+      game ui jelly green_26: -672042245
+      game ui jelly green_27: 1227583478
+      game ui jelly green_28: 2091160942
+      game ui jelly green_29: 1941410885
+      game ui jelly green_3: -298821025
+      game ui jelly green_30: 379857454
+      game ui jelly green_31: -1208946196
+      game ui jelly green_32: -806305007
+      game ui jelly green_33: -1034763924
+      game ui jelly green_34: 1381507068
+      game ui jelly green_35: 73213201
+      game ui jelly green_36: 1043539099
+      game ui jelly green_37: 1468384080
+      game ui jelly green_38: 1862089329
+      game ui jelly green_39: 647425564
+      game ui jelly green_4: 247812580
+      game ui jelly green_40: -1520604415
+      game ui jelly green_41: 1363855201
+      game ui jelly green_42: 685348498
+      game ui jelly green_43: 576605150
+      game ui jelly green_44: -1604544846
+      game ui jelly green_45: -347103560
+      game ui jelly green_5: 654558589
+      game ui jelly green_6: -1210045653
+      game ui jelly green_7: 352077924
+      game ui jelly green_8: -1322974320
+      game ui jelly green_9: 1230934182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
